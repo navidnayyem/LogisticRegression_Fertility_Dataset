@@ -18,3 +18,9 @@ This is a Python code for implementing logistic regression on the Fertility Data
 The dataset can be accessed from https://archive.ics.uci.edu/dataset/244/fertility.
 
 The code utilizes the scikit-learn library to perform logistic regression, aiming to predict fertility status based on the given features. It includes model training, evaluation, and visualization of results.
+
+These questions has been answered:
+<ol>
+<li>e.1 How can I measure the performance of my model?</li>
+<li>e.2 What are: Accuracy, Confusion Matrix, Precision, Recall & F1 Score, ROC & AUC. Log Loss?</li>
+</ol>
