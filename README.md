@@ -2,16 +2,18 @@
 
 This is a Python code for implementing logistic regression on the Fertility Dataset. The dataset comprises various features related to the fertility status:
 
-Season
-Age
-Child diseases
-Accident
-Surgical intervention
-High fevers
-Alcohol consumption
-Smoking habits
-Hours of sitting per day
-Additionally, the dataset includes a target variable, "diagnosis," which represents the fertility diagnosis (e.g., normal or altered).
+<ol>
+<li>Season</li>
+<li>Age</li>
+<li>Child diseases</li>
+<li>Accident</li>
+<li>Surgical intervention</li>
+<li>High fevers</li>
+<li>Alcohol consumption</li>
+<li>Smoking habits</li>
+<li>Hours of sitting per day</li>
+<li>Additionally, the dataset includes a target variable, "diagnosis," which represents the fertility diagnosis (e.g., normal or altered).</li>
+</ol>
 
 The dataset can be accessed from https://archive.ics.uci.edu/dataset/244/fertility.
 
